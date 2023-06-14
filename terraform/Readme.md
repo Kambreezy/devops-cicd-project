@@ -1,1 +1,2 @@
-Terraform practices with AWS Cloud instances
+#Terraform Provisioning
+Terraform provisioning of Application with AWS Cloud instances
